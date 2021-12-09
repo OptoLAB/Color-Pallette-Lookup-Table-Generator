@@ -6,11 +6,11 @@ Script is written for use with [thermal camera project](https://github.com/OptoL
 pallette.h contains generated lookup tables for several pallettes ilustrated bellow:
 
 <p align="center">
- <br> Plasma    <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/plasma.jpg" width="400"/>
- <br> Rainbow   <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/rainbow.jpg" width="400"/>
- <br> Seismic   <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/seismic.jpg" width="400"/>
+ <br> Plasma&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/plasma.jpg" width="400"/>
+ <br> Rainbow&nbsp;&nbsp;&nbsp;<img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/rainbow.jpg" width="400"/>
+ <br> Seismic&nbsp;&nbsp;&nbsp;<img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/seismic.jpg" width="400"/>
  <br> Hot       <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/hot.jpg" width="400"/>
- <br> Grayscale <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/grayscale.jpg" width="400"/>
+ <br> Grayscale&nbsp;<img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/grayscale.jpg" width="400"/>
  <br> Viridis   <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/viridis.jpg" width="400"/>
  <br> Hot&Cold  <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/Hot%26Cold.jpg" width="400"/>
  <br> HotSpot   <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/hotspot.jpg" width="400"/>
