@@ -8,6 +8,8 @@ pallette.h contains generated lookup tables for several pallettes ilustrated bel
 <p align="center">
  <p align="right">
   <br> Plasma &ensp; <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/plasma.jpg" width="400"/>
+ </p>
+ <p align="right"> 
   <br> Hot&Cold &ensp; <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/Hot%26Cold.jpg" width="400"/>
  </p>
 </p>
