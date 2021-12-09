@@ -6,6 +6,8 @@ Script is written for use with [thermal camera project](https://github.com/OptoL
 pallette.h contains generated lookup tables for several pallettes ilustrated bellow:
 
 <p align="center">
-<br> Plasma &ensp; <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/plasma.jpg" width="400"/>
-<br> Hot&Cold &ensp; <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/Hot%26Cold.jpg" width="400"/>
+ <p align="right">
+  <br> Plasma &ensp; <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/plasma.jpg" width="400"/>
+  <br> Hot&Cold &ensp; <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/Hot%26Cold.jpg" width="400"/>
+ </p>
 </p>
