@@ -11,6 +11,8 @@ pallette.h contains generated lookup tables for several pallettes ilustrated bel
 
 
 <p align="center">
+Plasma 
 <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/plasma.jpg" width="500"/>
+Hot&Cold 
 <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/Hot%26Cold.jpg" width="500"/>
 </p>
