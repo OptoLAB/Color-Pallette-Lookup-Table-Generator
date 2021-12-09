@@ -16,4 +16,4 @@ pallette.h contains generated lookup tables for several pallettes ilustrated bel
  <br> ColdSpot <br> <img src="https://github.com/OptoLAB/Color-Pallette-Lookup-Table-Generator/blob/main/demo/img/coldspot.jpg" width="400"/>
 </p>
 
-Video demosntration: [youtube](https://youtu.be/KOCp_KNmq_Y) 
+Video demonstration: [youtube](https://youtu.be/KOCp_KNmq_Y) 
